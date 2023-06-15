@@ -1,0 +1,15 @@
+D:\UDLA\Quinto Semestre\Modelado\EjemploApp\bin\Debug\net6.0\EjemploApp.exe
+D:\UDLA\Quinto Semestre\Modelado\EjemploApp\bin\Debug\net6.0\EjemploApp.deps.json
+D:\UDLA\Quinto Semestre\Modelado\EjemploApp\bin\Debug\net6.0\EjemploApp.runtimeconfig.json
+D:\UDLA\Quinto Semestre\Modelado\EjemploApp\bin\Debug\net6.0\EjemploApp.dll
+D:\UDLA\Quinto Semestre\Modelado\EjemploApp\bin\Debug\net6.0\EjemploApp.pdb
+D:\UDLA\Quinto Semestre\Modelado\EjemploApp\obj\Debug\net6.0\EjemploApp.csproj.AssemblyReference.cache
+D:\UDLA\Quinto Semestre\Modelado\EjemploApp\obj\Debug\net6.0\EjemploApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\UDLA\Quinto Semestre\Modelado\EjemploApp\obj\Debug\net6.0\EjemploApp.AssemblyInfoInputs.cache
+D:\UDLA\Quinto Semestre\Modelado\EjemploApp\obj\Debug\net6.0\EjemploApp.AssemblyInfo.cs
+D:\UDLA\Quinto Semestre\Modelado\EjemploApp\obj\Debug\net6.0\EjemploApp.csproj.CoreCompileInputs.cache
+D:\UDLA\Quinto Semestre\Modelado\EjemploApp\obj\Debug\net6.0\EjemploApp.dll
+D:\UDLA\Quinto Semestre\Modelado\EjemploApp\obj\Debug\net6.0\refint\EjemploApp.dll
+D:\UDLA\Quinto Semestre\Modelado\EjemploApp\obj\Debug\net6.0\EjemploApp.pdb
+D:\UDLA\Quinto Semestre\Modelado\EjemploApp\obj\Debug\net6.0\EjemploApp.genruntimeconfig.cache
+D:\UDLA\Quinto Semestre\Modelado\EjemploApp\obj\Debug\net6.0\ref\EjemploApp.dll
